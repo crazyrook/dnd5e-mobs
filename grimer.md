@@ -20,7 +20,8 @@ Speed 15 ft.
 
 #### Weapon
  
- >**Pseudopd** (**1d6+2**), Poison, 5 ft, one target.
+ >**Pseudopd** (**1d6+2**), Poison, 5 ft, one target. **Hit:** target must make a DC 10 Constitution saving throw in order to take Poison damage from this attack.
+
 
 ##### Condition Immunities
 
