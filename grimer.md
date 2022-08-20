@@ -24,11 +24,11 @@ Speed 15 ft.
 
 ##### Toxic
 
-Toxic takes a full-round action to perform. Grimer makes a ranged attack. On a hit, the target must make a DC 10 Constitution saving throw or take 1d6 poison damage on a failed save, or half as much damage on a successful one.
+>Toxic takes a full-round action to perform. Grimer makes a ranged attack. On a hit, the target must make a DC 10 Constitution saving throw or take 1d6 poison damage on a failed save, or half as much damage on a successful one.
 
 ##### Stench
 
-Any creature other than a grimer that starts its turn within 5 feet of the troglodyte must succeed on a DC 10 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all grimers for 1 hour.
+>Any creature other than a grimer that starts its turn within 5 feet of the troglodyte must succeed on a DC 10 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all grimers for 1 hour.
 
 ##### Condition Immunities
 
