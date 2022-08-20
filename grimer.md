@@ -28,7 +28,7 @@ Speed 15 ft.
 
 ##### Stench
 
->Any creature other than a grimer that starts its turn within 5 feet of the troglodyte must succeed on a DC 10 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all grimers for 1 hour.
+>Any creature other than a grimer that starts its turn within 5 feet of the grimer must succeed on a DC 10 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all grimers for 1 hour.
 
 ##### Condition Immunities
 
