@@ -14,10 +14,6 @@ Speed 15 ft.
 
 DEX -**4**
 
-#### Saving Throws:
- 
-Attribute
-
 #### Attack roll:
  
 Attack roll: Melee +**4**, Range +**2**
