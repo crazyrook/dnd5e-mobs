@@ -12,11 +12,11 @@ Speed 15 ft.
   
 #### AC: 6
 
-DEX -**4**
+>DEX -**4**
 
 #### Attack roll:
  
-Attack roll: Melee +**4**, Range +**2**
+>Attack roll: Melee +**4**, Range +**2**
 
 #### Weapon
  
@@ -24,14 +24,14 @@ Attack roll: Melee +**4**, Range +**2**
 
 ##### Condition Immunities
 
-* blinded
-* charmed
-* deafened
-* exhaustion
-* frightened
-* prone
+>* blinded
+>* charmed
+>* deafened
+>* exhaustion
+>* frightened
+>* prone
 
 ##### Senses
 
-* blindsight 60ft(blind beyond this radius)
-* passive Perception 5
+>* blindsight 60ft(blind beyond this radius)
+>* passive Perception 5
