@@ -20,7 +20,7 @@ Speed 15 ft.
 
 #### Weapon
  
- >**Pseudopd** (**1d6+2**) Poison
+ >**Pseudopd** (**1d6+2**), Poison, 5 ft, one target.
 
 ##### Condition Immunities
 
