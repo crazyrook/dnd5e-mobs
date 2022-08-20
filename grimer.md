@@ -16,7 +16,7 @@ Speed 15 ft.
 
 #### Attack roll:
  
->Attack roll: Melee +**4**, Range -**4**
+>Attack roll: Melee +**4**, Range -**2**
 
 #### Weapon
  
